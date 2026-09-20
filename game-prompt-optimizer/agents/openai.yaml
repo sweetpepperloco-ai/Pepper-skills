@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏提示词优化"
+  short_description: "整理分阶段、可验收的游戏开发提示词"
+  default_prompt: "使用 $game-prompt-optimizer，将我的游戏需求整理成分阶段开发提示词，并在每个阶段加入运行、检查、测试、修复和等待我验收的门禁。"
