@@ -1,4 +1,0 @@
-interface:
-  display_name: "游戏设计文档生成器"
-  short_description: "从游戏创意生成完整设计文档"
-  default_prompt: "使用 $game-design-doc-generator，将我的游戏创意整理成完整、自洽、按类型取舍的游戏设计文档，只写玩法、规则、风格和体验，不写代码或技术方案。"
